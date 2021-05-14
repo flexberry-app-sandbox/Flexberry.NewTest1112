@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Language",
+  "name": "NewPlatformNewTest111LanguageE",
+  "className": "LanguageE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "new-platform-new-test111-language",
+      "modelProjection": "LanguageE"
+    }
+  ]
+}
