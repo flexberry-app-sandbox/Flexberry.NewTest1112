@@ -22,13 +22,13 @@ export default Controller.extend({
             link: 'new-platform-new-test111-country-l',
             caption: i18n.t('forms.application.sitemap.books.new-platform-new-test111-country-l.caption'),
             title: i18n.t('forms.application.sitemap.books.new-platform-new-test111-country-l.title'),
-            icon: 'book',
+            icon: 'building',
             children: null
           }, {
             link: 'new-platform-new-test111-book-l',
             caption: i18n.t('forms.application.sitemap.books.new-platform-new-test111-book-l.caption'),
             title: i18n.t('forms.application.sitemap.books.new-platform-new-test111-book-l.title'),
-            icon: 'building',
+            icon: 'table',
             children: null
           }, {
             link: 'new-platform-new-test111-author-l',
@@ -40,7 +40,7 @@ export default Controller.extend({
             link: 'new-platform-new-test111-language-l',
             caption: i18n.t('forms.application.sitemap.books.new-platform-new-test111-language-l.caption'),
             title: i18n.t('forms.application.sitemap.books.new-platform-new-test111-language-l.title'),
-            icon: 'calendar',
+            icon: 'book',
             children: null
           }]
         }
